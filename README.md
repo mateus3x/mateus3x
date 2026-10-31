@@ -13,7 +13,10 @@
  <img align="center" glt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Universitário CST em Tecnologia da Informação e aprendendo tecnologias na Digital Innovation One.
+## 🎓 Formação
+- Bacharelado em Ciências Contábeis (Anhanguera) — em andamento
+- Pós-graduação em Reforma Tributária e Prática Fiscal (Contabilidade Facilitada) — em andamento
+- Tecnólogo em Gestão da Tecnologia da Informação (UNIP)
 
 ## CONTATO
 - [mateusderesendegimenez4@gmail.com](VARCHAR(100))
